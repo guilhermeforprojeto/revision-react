@@ -11,6 +11,7 @@ O que estou revisando nesse repositorio:
 - Geral: Estudar a diferença entre a pasta Public e a pasta Assets
 
 - ReactJS: Estudar sobre boas práticas de usos dos hooks (useState). Bonus: "useReduce"
+    Referencia: https://www.youtube.com/watch?v=OBv809OEdLQ&t=653s
 
 - ReactJS: Estudar sobre renderização condicional (usos de &&, || e switch na renderização)
 
